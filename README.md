@@ -22,7 +22,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.ibb.co/qFXrbKz/cs194a-simpleyelp-demo-v2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./cs194a-simpleyelp-demo-v2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
