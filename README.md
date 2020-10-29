@@ -21,7 +21,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.ibb.co/TK24rF5/cs194a-simpleyelp-demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.ibb.co/HXDSgM7/cs194a-simpleyelp-demo-comp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
