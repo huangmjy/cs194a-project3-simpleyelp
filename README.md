@@ -4,7 +4,7 @@
 
 **SimpleYelp** displays a list of search results from the Yelp API and displays the results in a scrollable list. 
 
-Time spent: **2.5** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Functionality 
 
@@ -16,12 +16,13 @@ The following **required** functionality is completed:
 The following **extensions** are implemented:
 
 * [X] Restaurant names are automatically resized to fit inside the layout when they are too long for one line. 
+* [X] Search bar for modifying search term 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.ibb.co/HXDSgM7/cs194a-simpleyelp-demo-comp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.ibb.co/qFXrbKz/cs194a-simpleyelp-demo-v2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
